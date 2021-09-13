@@ -1,7 +1,7 @@
 # Blog UI Demo STUDNET17
 
 ## Demo UI
-![alt text](https://github.com/dinhtrivonguyen/Blog-UI-TC-S17/tree/main/images/screencapture-demo.png.png)
+![alt text](https://github.com/dinhtrivonguyen/Blog-UI-TC-S17/tree/main/images/screencapture-demo.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
