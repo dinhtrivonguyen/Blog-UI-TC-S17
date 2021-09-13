@@ -1,5 +1,7 @@
 # Blog UI Demo STUDNET17
 
+A little UI work for the News Blog site for STUDNET17, designed from Figma.
+
 ## Demo UI
 ![alt text](images/screencapture-demo.png)
 
